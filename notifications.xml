@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Automatic indent detection" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gem Manager" shouldLog="false" />
+  </component>
+</application>

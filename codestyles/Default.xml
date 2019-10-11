@@ -1,0 +1,15 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <Ruby>
+    <option name="PARENTHESES_AROUND_METHOD_ARGUMENTS" value="false" />
+    <option name="CONVERT_BRACE_BLOCK_BY_ENTER" value="false" />
+  </Ruby>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="ruby">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
