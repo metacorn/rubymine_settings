@@ -2,4 +2,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
