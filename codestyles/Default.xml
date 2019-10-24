@@ -1,5 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <Ruby>
     <option name="PARENTHESES_AROUND_METHOD_ARGUMENTS" value="false" />
@@ -12,8 +18,5 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
