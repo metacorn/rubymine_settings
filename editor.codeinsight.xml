@@ -5,7 +5,6 @@
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="false" />
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
