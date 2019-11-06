@@ -4,7 +4,7 @@
     <property name="created">2019-10-18T10:17:11</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-06T12:20:21</property>
+    <property name="modified">2019-11-06T12:22:35</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -194,7 +194,7 @@
     <option name="BROWSEWORDATCARET">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="546e7a" />
+        <option name="BACKGROUND" value="314549" />
         <option name="EFFECT_COLOR" value="a8d26" />
       </value>
     </option>
