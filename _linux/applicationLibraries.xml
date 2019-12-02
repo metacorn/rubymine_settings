@@ -724,13 +724,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt-3.1.12/spec" />
@@ -745,13 +743,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt_pbkdf/1.0.1" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt_pbkdf/1.0.1" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/bcrypt_pbkdf-1.0.1/test" />
@@ -2862,12 +2858,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ed25519/1.2.4" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/ed25519-1.2.4/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/ed25519-1.2.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ed25519/1.2.4" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/ed25519-1.2.4/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/ed25519-1.2.4/lib" />
       </SOURCES>
@@ -3994,12 +3988,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -5225,7 +5217,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/spec" />
@@ -5233,7 +5224,6 @@
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/mysql2-0.5.2/spec" />
@@ -5576,7 +5566,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/spec" />
@@ -5584,7 +5573,6 @@
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/nio4r-2.3.1/spec" />
@@ -6149,13 +6137,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/pg-1.1.4/spec" />
@@ -7756,13 +7742,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
@@ -10594,12 +10578,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.2/system/ruby_stubs/299055364/usr/local/bundle/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
