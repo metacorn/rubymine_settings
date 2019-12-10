@@ -1,4 +1,12 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_BACKSPACE" value="0" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="36000000" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="0" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Ubuntu Mono" />
@@ -14,8 +22,6 @@
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
-    <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
-    <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
@@ -25,5 +31,8 @@
   </component>
   <component name="SqlFoldingSettings">
     <option name="COLLAPSE_LONG_NUMBERS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
