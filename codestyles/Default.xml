@@ -9,6 +9,7 @@
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
     <option name="PARENTHESES_AROUND_METHOD_ARGUMENTS" value="false" />
     <option name="CONVERT_BRACE_BLOCK_BY_ENTER" value="false" />
   </Ruby>
