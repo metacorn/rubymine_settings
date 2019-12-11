@@ -23,6 +23,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *scratch*" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
