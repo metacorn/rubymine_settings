@@ -3,8 +3,12 @@
     <notification groupId="Automatic indent detection" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="bundler" shouldLog="false" />
     <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Docker" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Gem Manager" shouldLog="false" />
+    <notification groupId="Generate test" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Material Theme Notifications" shouldLog="false" />
+    <notification groupId="Project generator" shouldLog="false" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldLog="false" />
   </component>
 </application>
