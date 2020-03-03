@@ -11,7 +11,7 @@
     <entry key="suppress.focus.stealing" value="true" />
     <entry key="suppress.focus.stealing.linux" value="true" />
     <entry key="suppress.focus.stealing.auto.request.focus" value="true" />
-    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
+    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
   </component>
 </application>
