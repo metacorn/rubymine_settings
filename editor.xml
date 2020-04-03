@@ -5,6 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SMART_BACKSPACE" value="0" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="36000000" />
