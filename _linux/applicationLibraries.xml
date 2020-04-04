@@ -1559,6 +1559,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equalizer-0.0.11/config" />
       </excluded>
     </library>
+    <library name="equatable (v0.5.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/equatable-0.5.0/examples" />
+      </excluded>
+    </library>
     <library name="errbase (v0.1.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3108,6 +3130,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
+    <library name="necromancer (v0.3.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/necromancer-0.3.0/tasks" />
+      </excluded>
+    </library>
     <library name="net-http-digest_auth (v1.4.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3559,6 +3600,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/parser-2.6.2.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/parser-2.6.2.1/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/parser-2.6.2.1/test" />
+      </excluded>
+    </library>
+    <library name="pastel (v0.6.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/pastel-0.6.1/benchmarks" />
       </excluded>
     </library>
     <library name="pg (v0.21.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
@@ -5388,6 +5457,247 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/truncate_html-0.9.3/spec" />
       </excluded>
     </library>
+    <library name="tty (v0.5.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-0.5.0/images" />
+      </excluded>
+    </library>
+    <library name="tty-color (v0.3.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-color-0.3.0/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-command (v0.1.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-command-0.1.0/examples" />
+      </excluded>
+    </library>
+    <library name="tty-cursor (v0.3.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-cursor-0.3.0/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-pager (v0.4.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-pager-0.4.0/examples" />
+      </excluded>
+    </library>
+    <library name="tty-platform (v0.1.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-platform-0.1.0/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-progressbar (v0.9.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-progressbar-0.9.0/examples" />
+      </excluded>
+    </library>
+    <library name="tty-prompt (v0.6.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-prompt-0.6.0/benchmarks" />
+      </excluded>
+    </library>
+    <library name="tty-screen (v0.5.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-screen-0.5.1/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-spinner (v0.2.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-spinner-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-spinner-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-table (v0.5.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-table-0.5.0/benchmarks" />
+      </excluded>
+    </library>
+    <library name="tty-which (v0.1.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/tty-which-0.1.0/tasks" />
+      </excluded>
+    </library>
     <library name="turbolinks (v5.2.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5601,6 +5911,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/vcr-4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="verse (v0.4.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/verse-0.4.0/tasks" />
+      </excluded>
+    </library>
     <library name="virtus (v1.0.5, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5776,6 +6105,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wicked_pdf-1.1.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wicked_pdf-1.1.0/gemfiles" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wicked_pdf-1.1.0/generators" />
+      </excluded>
+    </library>
+    <library name="wisper (v1.6.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wisper-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wisper-1.6.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wisper-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wisper-1.6.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/wisper-1.6.1/spec" />
       </excluded>
     </library>
     <library name="wkhtmltopdf-binary (v0.12.4, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
