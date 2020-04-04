@@ -243,6 +243,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/annotate-2.7.4/bin" />
       </excluded>
     </library>
+    <library name="anyway_config (v0.3.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/anyway_config-0.3.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="apartment (v2.2.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2293,6 +2312,41 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/ice_nine-0.11.2/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/ice_nine-0.11.2/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/ice_nine-0.11.2/benchmarks" />
+      </excluded>
+    </library>
+    <library name="influxdb (v0.2.6, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxdb-0.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxdb-0.2.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxdb-0.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxdb-0.2.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxdb-0.2.6/spec" />
+      </excluded>
+    </library>
+    <library name="influxer (v0.3.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/influxer-0.3.1/gemfiles" />
       </excluded>
     </library>
     <library name="iniparse (v1.4.4, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
