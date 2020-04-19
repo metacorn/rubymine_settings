@@ -15,9 +15,6 @@
     <option name="PARENTHESES_AROUND_METHOD_ARGUMENTS" value="false" />
     <option name="CONVERT_BRACE_BLOCK_BY_ENTER" value="false" />
   </Ruby>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
