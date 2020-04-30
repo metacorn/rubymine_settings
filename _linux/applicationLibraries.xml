@@ -665,6 +665,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/bullet-5.9.0/tasks" />
       </excluded>
     </library>
+    <library name="bundler (v2.1.4, rbenv: 2.4.4, global) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.1.4, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
