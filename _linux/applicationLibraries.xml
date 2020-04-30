@@ -665,25 +665,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/bullet-5.9.0/tasks" />
       </excluded>
     </library>
-    <library name="bundler (v2.1.4, rbenv: 2.4.4, global) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/global/gems/bundler-2.1.4/man" />
-      </excluded>
-    </library>
     <library name="bundler (v2.1.4, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -911,6 +892,29 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/case_transform-0.2/lib" />
       </SOURCES>
+    </library>
+    <library name="chartkick (v2.2.3@892406, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/chartkick-892406319567/test" />
+      </excluded>
     </library>
     <library name="chartkick (v2.2.3@892406, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
@@ -3021,6 +3025,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="mobylette (v3.5@4a7c17, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/mobylette-4a7c17e68dc8/config" />
+      </excluded>
+    </library>
     <library name="mobylette (v3.5@4a7c17, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4520,6 +4546,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rest_in_place (v2.6.0@b93267, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/testapp" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/testapp" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/rest_in_place-b93267174f51/testapp" />
+      </excluded>
+    </library>
     <library name="rest_in_place (v2.6.0@b93267, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4828,6 +4873,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/russian-0.6.0/spec" />
       </excluded>
     </library>
+    <library name="russian_obscenity (v0.0.3@752fea, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/russian_obscenity-752fea5c2983/.git" />
+      </excluded>
+    </library>
     <library name="russian_obscenity (v0.0.3@752fea, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5016,6 +5079,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/select2-rails-3.5.10/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/select2-rails-3.5.10/vendor" />
       </SOURCES>
+    </library>
+    <library name="select2_simple_form (v0.7.5@565f6b, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/bundler/gems/select2_simple_form-565f6b953c6a/.git" />
+      </excluded>
     </library>
     <library name="select2_simple_form (v0.7.5@565f6b, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
