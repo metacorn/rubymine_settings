@@ -2328,6 +2328,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/ice_nine-0.11.2/benchmarks" />
       </excluded>
     </library>
+    <library name="img2zpl (v1.0.1, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/img2zpl-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/img2zpl-1.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/img2zpl-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/img2zpl-1.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/img2zpl-1.0.1/spec" />
+      </excluded>
+    </library>
     <library name="influxdb (v0.2.6, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6469,6 +6485,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/yt-support-0.1.3/bin" />
+      </excluded>
+    </library>
+    <library name="zebra-zpl (v1.1.2, rbenv: 2.4.4, -default) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/zebra-zpl-1.1.2/spec" />
       </excluded>
     </library>
     <library name="zip-zip (v0.3, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
