@@ -6501,6 +6501,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/os-1.0.1/autotest" />
       </excluded>
     </library>
+    <library name="os (v1.0.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/os-1.0.1/autotest" />
+      </excluded>
+    </library>
     <library name="ostruct (v0.2.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6619,6 +6638,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/-default/gems/paperclip-compression-1.1.1/bin" />
+      </excluded>
+    </library>
+    <library name="paperclip-compression (v1.1.1, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/paperclip-compression-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/paperclip-compression-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/paperclip-compression-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/paperclip-compression-1.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/gemsets/mc_dev/gems/paperclip-compression-1.1.1/bin" />
       </excluded>
     </library>
     <library name="paperclip-i18n (v4.3.0, rbenv: 2.4.4, mc_dev) [gem]" type="rubylib">
